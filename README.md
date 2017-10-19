@@ -1,2 +1,2 @@
 # SessionGeoIP
-Java Session Management with GeoIP for Secure Login
+Java Swing GeoIP Session Management
